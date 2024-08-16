@@ -1,5 +1,5 @@
-# Atomic-AGD-Suite
-AGD suite for converting, compiling and running AGD games on an Acorn Atom
+# A8-AGD-Suite
+AGD suite for converting, compiling and running AGD games on 8 bit Atari computers
 * CONVERT DODGY, extracts an AGD file from a ZX Spectrum 48KB snapshot
 * BUILD DODGY a b g h i, conditional compiles the AGD file, assembles it and runs it in an Atom emulator
 * (a = Adventure mode)
