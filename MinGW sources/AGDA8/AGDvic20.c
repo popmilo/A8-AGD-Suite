@@ -2,6 +2,7 @@
 /*                                                                 */
 /*   ZX Spectrum/CPC version written by Jonathan Cauldwell         */
 /*   VIC20 version written by Kees van Oss v0 2024                 */
+/*   Atari 8bit version written by Vladimir Janković 2024          */
 /*                                                                 */
 
 #include <stdio.h>
@@ -945,7 +946,8 @@ int main( int argc, const char* argv[] )
 	puts( "AGD Compiler for ZX Spectrum Version 0.6" );
 	puts( "(C) Jonathan Cauldwell February 2018" );
 	puts( "VIC20 version by Kees van Oss August 2024 \n" );
-
+	puts( "Atari 8bit version by Vladimir Jankovic 2024 \n" );
+	
 	short int i;
 	char d;
 

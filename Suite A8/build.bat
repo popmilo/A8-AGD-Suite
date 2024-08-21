@@ -26,8 +26,8 @@ rem del %1.*
 
 rem Start emulator
  echo Starting Vice with %1.prg
- cd ..\GTK3VICE-3.8-win64\bin
- xvic -silent -memory all -ntsc ..\TAPES\%1.prg
+ cd ..\Altirra
+ Altirra.exe .\games\%1.xex
  echo Quiting Vice
  cd ..\..
  goto end
